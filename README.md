@@ -3,7 +3,7 @@
 #### 🔭 I’m currently working on an Angular Application and Java Springboot backend... care to join me. Send a mail.
 #### 🌱 I’m currently learning PHP. I hope to start learning React Library soon.
 #### 👯 I’m looking to collaborate on Backend, Frontend and Full-stack applications.
-#### 💬 Ask me about Java, Angular, MySQL, Node, Express, Jquery, HTML, CSS, Oracle, Sqlite
+#### 💬 Ask me about Java, Angular, MySQL, Node, Express, Jquery, HTML, CSS, Oracle, Sqlite, Google Cloud, Docker, Kubernetes
 #### 📫 How to reach me: mailto:akin_adepoju@yahoo.com
 
 ###### Please feel free to reach out if you need any assistance, I won't hesitate to reach out when I need same 🤔😄😄😄😄
