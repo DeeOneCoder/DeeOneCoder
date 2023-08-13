@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-#### 🔭 I’m currently working on an Angular Application and Java Springboot backend... care to join me. Send a mail.
-#### 🌱 I’m currently learning PHP. I hope to start learning React Library soon.
+#### 🔭 I’m currently working on a Data Encryption SaaS, it will help you encrypt text documents which can only be decrypted using the key you supplied for encryption. It has Spring boot and MySql on the backend, Angular on the frontend!... care to join me. Send a mail.
+#### 🌱 I’m currently learning Kotlin.
 #### 👯 I’m looking to collaborate on Backend, Frontend and Full-stack applications.
 #### 💬 Ask me about Java, Angular, MySQL, Node, Express, Jquery, HTML, CSS, Oracle, Sqlite, Google Cloud, Docker, Kubernetes
 #### 📫 How to reach me: mailto:akin_adepoju@yahoo.com
